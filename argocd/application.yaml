@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: sre-demo-api
+  name: nginx-demo
   namespace: argocd
 spec:
   project: default
